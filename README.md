@@ -1,6 +1,9 @@
 # Portfolio Project
 
 Welcome to my portfolio project! This project showcases my skills and projects as a software engineer.
+## Demo
+
+Check out the live demo of the portfolio project: [Live Demo](https://aminammar1.github.io/My-Portfolio-ReactJS/)
 
 ## Table of Contents
 
