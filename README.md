@@ -36,11 +36,17 @@ To run this project locally, follow these steps:
    git clone https://github.com/aminammar1/My-Portfolio-ReactJS.git
    ```
 2. Navigate to the project directory:
-   cd portfolio-project
+    ```bash
+    cd portfolio-app
+    ```
 3. Install the dependencies:
-   npm install
+    ```bash
+    npm install
+    ```
 4. Start the development server:
-   npm start
+    ```bash
+    npm start
+    ```
 
 ## Usage
 
