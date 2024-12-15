@@ -12,7 +12,7 @@ export default function Header() {
           alt="Profile Picture"
         />
       </div>
-      <div className=" flex flex-col  items-start gap-5 justify-center">
+      <div className="  p-4 flex flex-col  items-start gap-5 justify-center">
         <h1 className="text-4xl md:text-5xl font-extrabold">
           Hi, I&apos;m Mohamed Amine
         </h1>
