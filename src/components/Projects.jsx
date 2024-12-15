@@ -15,6 +15,42 @@ export default function Projects() {
       forks: 0,
       repoUrl: "https://github.com/aminammar1/React-project-MERN",
     },
+    {
+      id: 2,
+      title: "MERN-RealEstate",
+      description: "Real Estate website using MERN stack",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+      stars: 0,
+      forks: 0,
+      repoUrl: "https://github.com/aminammar1/React-project-MERN",
+    },
+    {
+      id: 3,
+      title: "MERN-RealEstate",
+      description: "Real Estate website using MERN stack",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+      stars: 0,
+      forks: 0,
+      repoUrl: "https://github.com/aminammar1/React-project-MERN",
+    },
+    {
+      id: 4,
+      title: "MERN-RealEstate",
+      description: "Real Estate website using MERN stack",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+      stars: 0,
+      forks: 0,
+      repoUrl: "https://github.com/aminammar1/React-project-MERN",
+    },
+    {
+      id: 5,
+      title: "MERN-RealEstate",
+      description: "Real Estate website using MERN stack",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+      stars: 0,
+      forks: 0,
+      repoUrl: "https://github.com/aminammar1/React-project-MERN",
+    },
   ];
 
   return (
