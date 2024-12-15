@@ -9,7 +9,7 @@ export default function Footer() {
     <>
       <div className="px-32"></div>
       <div className="border"></div>
-      <div className="flex justify-between items-center p-10 px-32">
+      <div className="flex justify-between items-center p-10 px-8">
         <div>© 2024 Mohamed Amine Ammar</div>
         <div className="flex gap-4">
           <a

@@ -12,11 +12,11 @@ export default function Header() {
           alt="Profile Picture"
         />
       </div>
-      <div className="text flex flex-col items-start gap-5 justify-center">
+      <div className="text flex flex-col sm:flex-auto items-start gap-5 justify-center">
         <h1 className="text-4xl md:text-5xl font-extrabold">
           Hi, I&apos;m Mohamed Amine
         </h1>
-        <p className="text-lg md:text-pretty text-gray-300">
+        <p className="text-lg  text-gray-300">
           I&apos;m a software engineer from Monastir, Tunisia, specializing in
           efficient, user-focused applications across full-stack, mobile, and
           backend development.
